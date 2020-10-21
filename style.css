@@ -1,5 +1,6 @@
 body {
-  font-family: 'Times New Roman', Times, serif;
+  font-family: comic;
+  font-size: 200%;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -27,7 +28,6 @@ background: linear-gradient(to right, #ff6a00, #ee0979); /* W3C, IE 10+/ Edge, F
   padding: 16px;
   border-radius: 4px;
   box-shadow: 8px 8px #c0bebe;
-  <a target="_blank" href="https://enlight.nyc">Enlight</a>
 }
 
 .dark {
@@ -39,5 +39,9 @@ a {
   color: greenyellow;
   text-shadow: darkblue;
   font-family: san 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  height: ; 40%;
+  height: 40%;
+}
+
+h1 {
+  color: yellow;
 }
